@@ -1,4 +1,4 @@
-# Week 2 - Linux OS basics
+# Week 3 - Linux OS basics
 ## Topics
 * File System
     * Hierarchy
@@ -48,3 +48,5 @@
 * [explainshell](https://explainshell.com/)
 * [Commandline Challenge](https://cmdchallenge.com/)
 * [ShellCheck](https://www.shellcheck.net/)
+* [JSON-to-Go](https://mholt.github.io/json-to-go/)
+* [curl-to-Go](https://mholt.github.io/curl-to-go/)

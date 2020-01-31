@@ -1,4 +1,4 @@
-# Week 4 - Linux Networking Topics
+# Week 4 - Linux Networking
 ## Topics
 * OSI/DoD Protocol Layering
 * TCP/IP

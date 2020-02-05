@@ -37,6 +37,9 @@
 * [The Open Guide to AWS](https://github.com/open-guides/og-aws)
 * [AWS in Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
 * [Docker networking and service discovery](https://www.oreilly.com/learning/docker-networking-service-discovery)
+* [Official Docker Labs Networking tutorials](https://github.com/docker/labs/tree/master/networking)
+* [Docker Labs Networking concepts](https://github.com/docker/labs/tree/master/networking/concepts)
+* [Emulate a Network with Virtualbox](https://www.brianlinkletter.com/how-to-use-virtualbox-to-emulate-a-network/)
 
 ## Tools
 * [Localstack](https://github.com/localstack/localstack)
